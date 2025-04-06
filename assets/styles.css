@@ -1,0 +1,50 @@
+/**Commentaires **/
+html {
+    background-color:mediumpurple;
+}
+.wallpaperhome {
+    width: 2510px;
+    height: 200px;
+    margin: auto;
+}
+.hautimage {
+    background-color:cornflowerblue
+}
+.entete {
+    background-color: aliceblue;
+    border-radius: 12px;
+}
+h1 {
+    color:darkblue;
+}
+h2 {
+    color:brown;
+}
+.homered {
+    color: red;
+}
+.parisvert {
+    color: green;
+}
+.homeparis {
+    background-color:darksalmon;
+    border-radius: 12px;
+    border: dashed;  
+}
+.amourgreen {
+    color: green;
+}
+.amourblue {
+    color: blue;
+}
+.hometokyo {
+    background-color:khaki;
+    border:solid;
+}
+.basdepage {
+    background-color:palevioletred;
+    border-radius: 12px;
+}
+.baswhite {
+    color: white;
+}
